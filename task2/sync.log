@@ -1,0 +1,6 @@
+[2022-06-08 07:36:46,180] task2_source/folder1 created at task2_target/folder1
+[2022-06-08 07:36:46,181] task2_source/folder1/subfolder created at task2_target/folder1/subfolder
+[2022-06-08 07:36:46,181] task2_source/folder1/file.123 copied to task2_target/folder1/file.123
+[2022-06-08 07:36:46,181] task2_source/folder1/subfolder/file.345 copied to task2_target/folder1/subfolder/file.345
+[2022-06-08 07:37:06,211] task2_source/folder1/file.123 copied to task2_target/folder1/file.123
+[2022-06-08 07:37:31,254] task2_target/folder1/subfolder/file.345 removed 
